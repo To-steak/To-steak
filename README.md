@@ -1,6 +1,8 @@
 ## Projects
 - TopView Game
 - Implementation a TPS game supports multiplay
+- Study about bezier curve and impl on Unity
+- Implementation NPCs with LLM on Unity with LangChain
 
 ## Langauges and Frameworks
 - C#
