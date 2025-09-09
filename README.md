@@ -2,7 +2,7 @@
 - Development a top view game
 - Implementation a TPS game supports multiplay
 - Study about bezier curve and impl on Unity
-- Implementation NPCs with LLM on Unity with LangChain
+- Unity NPC Implementation with LLM and LangChain
 
 ## Langauges and Frameworks
 - C#
